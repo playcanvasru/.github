@@ -1,4 +1,9 @@
-## Hi there 👋
+PlayCanvas — Русскоязычное сообщество
+
+Полезное:
+Официальный сайт: https://playcanvas.com
+Документация: https://developer.playcanvas.com
+Форум: https://forum.playcanvas.com
 
 <!--
 
